@@ -1,0 +1,55 @@
+{
+    "Zinger Burgers": [
+      { "name": "Classic Zinger", "price": "PKR 399" },
+      { "name": "Mayo Garlic Zinger", "price": "PKR 399" },
+      { "name": "BBQ Zinger", "price": "PKR 399" },
+      { "name": "Zinger Cheeze", "price": "PKR 450" },
+      { "name": "Dynamite Zinger", "price": "PKR 480" },
+      { "name": "Jalapeno Zinger", "price": "PKR 480" }
+    ],
+    "Chicken Burgers": [
+      { "name": "Classic Chicken", "price": "PKR 250" },
+      { "name": "Chicken Egg", "price": "PKR 300" },
+      { "name": "Chicken Cheese", "price": "PKR 300" },
+      { "name": "Smokey Chicken", "price": "PKR 300" },
+      { "name": "Dynamite Chicken", "price": "PKR 350" },
+      { "name": "Smokey Grilled", "price": "PKR 350" }
+    ],
+    "Brost Chicken": [
+      { "name": "Crispy Wings (6pcs)", "price": "PKR 350" },
+      { "name": "Chicken Finger (3pcs)", "price": "PKR 450" },
+      { "name": "QTR Broast Chest (2pcs)", "price": "PKR 480" },
+      { "name": "QTR Broast Mix (2pcs)", "price": "PKR 480" },
+      { "name": "QTR Broast Leg (2pcs)", "price": "PKR 450" },
+      { "name": "Spicy Broast (2pcs)", "price": "PKR 490" }
+    ],
+    "Beef Burgers": [
+      { "name": "Classic Beef", "price": "PKR 350" },
+      { "name": "Beef Mayo", "price": "PKR 400" },
+      { "name": "Smokey Beef", "price": "PKR 400" },
+      { "name": "Mushroom Beef", "price": "PKR 480" },
+      { "name": "Dynamite Beef", "price": "PKR 480" },
+      { "name": "Jalapeno Beef", "price": "PKR 480" }
+    ],
+    "Chicken Sandwiches": [
+      { "name": "Jalapeno Sandwich", "price": "PKR 400" },
+      { "name": "Chicken Club", "price": "PKR 400" },
+      { "name": "Crispy Sandwich", "price": "PKR 400" },
+      { "name": "Fajita Sandwich", "price": "PKR 450" },
+      { "name": "Food Hub Special Club", "price": "PKR 480" }
+    ],
+    "Premium Burgers": [
+      { "name": "Most Wanted", "price": "PKR 750" },
+      { "name": "Cheese Belly Beef", "price": "PKR 600" },
+      { "name": "Dynamite Beef Double", "price": "PKR 600" },
+      { "name": "Mushroom Beef Double", "price": "PKR 600" },
+      { "name": "Cheese Rocker", "price": "PKR 600" }
+    ],
+    "Fried": [
+      { "name": "Plain Fries", "price": "PKR 100" },
+      { "name": "Masala Fries", "price": "PKR 120" },
+      { "name": "Mayo Garlic Fries", "price": "PKR 150" },
+      { "name": "Zinger Roll", "price": "PKR 300" },
+      { "name": "Chicken Shwarma", "price": "PKR 300" }
+    ]
+  }

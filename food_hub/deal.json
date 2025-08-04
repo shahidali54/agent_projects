@@ -1,0 +1,74 @@
+{
+    "Deal": [
+      {
+        "deal": "Deal 1: 1 Classic Zinger + 1pc Broast leg/thigh + 1 Drink 345ml + 1 Mayo Dip",
+        "price": "PKR 649",
+        "original_price": "PKR 999",
+        "delivery_time": "25-35 mins",
+        "discount": "35%"
+      },
+      {
+        "deal": "Deal 2: 1 Mayo Zinger + 1 Dynamite Zinger + 2 Drink 345ml",
+        "price": "PKR 999",
+        "original_price": "PKR 1469",
+        "delivery_time": "20-30 mins",
+        "discount": "32%"
+      },
+      {
+        "deal": "Deal 3: 1 Sandwich (Any) + 1 QTR Broast Mix + 2 Drink 345ml",
+        "price": "PKR 999",
+        "original_price": "PKR 1427",
+        "delivery_time": "30-40 mins",
+        "discount": "30%"
+      },
+      {
+        "deal": "Deal 4: 1 Beef Burger + 6pcs Crispy Wings + 1 Drink 500ml",
+        "price": "PKR 869",
+        "original_price": "PKR 1259",
+        "delivery_time": "15-25 mins",
+        "discount": "31%"
+      },
+      {
+        "deal": "Deal 5: 1 QTR Broast Mix + 1 Chicken Burger + 1 Drink 500ml",
+        "price": "PKR 799",
+        "original_price": "PKR 1158",
+        "delivery_time": "25-35 mins",
+        "discount": "31%"
+      },
+      {
+        "deal": "Deal 6: 1 Smokey Grilled + 1 Zinger Burger + 2 Drink 345ml",
+        "price": "PKR 849",
+        "original_price": "PKR 1249",
+        "delivery_time": "40-50 mins",
+        "discount": "32%"
+      },
+      {
+        "deal": "Deal 7: 2 Junior Zingar + 1 Broast Mix + 1 Litre Drink",
+        "price": "PKR 1149",
+        "original_price": "PKR 1690",
+        "delivery_time": "40-50 mins",
+        "discount": "32%"
+      },
+      {
+        "deal": "Deal 8: 1 Classic Chicken Burger + 1 Classic Beef Burger + 6pcs Crispy Wings + 2 Drink 345ml",
+        "price": "PKR 1049",
+        "original_price": "PKR 1543",
+        "delivery_time": "40-50 mins",
+        "discount": "32%"
+      },
+      {
+        "deal": "Deal 9 Family & Friends: 4 Classic Zinger + 6pcs Crispy Wings + 2 Dip Sauce + 1 Litre Drink",
+        "price": "PKR 1999",
+        "original_price": "PKR 2940",
+        "delivery_time": "40-50 mins",
+        "discount": "32%"
+      },
+      {
+        "deal": "Deal 10 Family and Friends: 4 Dynamite Zinger/Beef + 1 QTR Broast Mix + 4 Dip Sauce + 1 Drink 1.5L",
+        "price": "PKR 2499",
+        "original_price": "PKR 3845",
+        "delivery_time": "40-50 mins",
+        "discount": "32%"
+      }
+    ]
+  }
